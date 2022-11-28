@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/azusagawa_it)
 [![About Badge](https://img.shields.io/static/v1?label=&message=About&color=blue&style=flat&logo=trustpilot&logoColor=white)](#short-introduction)
-[![Contact us Badge](https://img.shields.io/static/v1?label=&message=Contact%20us&color=blue&style=flat&logo=powervirtualagents&logoColor=white)](#contact-information)
+[![Contact us Badge](https://img.shields.io/static/v1?label=&message=Contact%20us&color=blue&style=flat&logo=powervirtualagents&logoColor=white)](mailto:contact@azusagawa.it)
 
 [Twitter is created only to reserve name]
 
@@ -14,6 +14,3 @@ Our motto is to use as few as possible dependencies in projects; this means that
 * As of the moment of typing this, the web server and web socket are fully closed source; there is a possibility it will change in future.
 
 You freely contact us if you want to order the creation of a back-end or front-end for your application, but we can as well create for you a desktop application using [Electron](https://electronjs.org/)
-
-## Contact information
-If you want to contact us, you can use the email address contact@azusagawa.it
