@@ -7,10 +7,11 @@
 ## Short introduction
 Hey there :wave:
 
-azusagawa.it is an organization entirely run by one person that specializing in back-end development; we can do front-end development as well, primarily using programming languages such as JavaScript and TypeScript.
+Azusagawa.it is a one-person organization specializing in back-end development, but we can also do front-end development using languages such as JavaScript and TypeScript.
 
-Our motto is to use as few as possible dependencies in projects; this means that most of the time, we are trying to create our implementation of most used packages by us. A good example will be our implementation of [web server](https://github.com/Azusagawa-it/core-ts/tree/main/core_modules/azusagawa%40web-server)* using native HTTP/HTTPS module or implementation of [web socket server](https://github.com/Azusagawa-it/core-ts/tree/main/core_modules/azusagawa%40websocket)*.
+Our philosophy is to use as few dependencies as possible in our projects, so we often try to create our own versions of commonly-used packages. For example, we have created our own [web server](https://github.com/Azusagawa-it/core-ts/tree/main/core_modules/azusagawa%40web-server)* and [web socket server](https://github.com/Azusagawa-it/core-ts/tree/main/core_modules/azusagawa%40websocket)*.
 
-* As of the moment of typing this, the web server and web socket are fully closed source; there is a possibility it will change in future.
+* which are currently closed source, but may become open source in the future,
+* used modules are native HTTP/HTTPS.
 
-You freely contact us if you want to order the creation of a back-end or front-end for your application, but we can as well create for you a desktop application using [Electron](https://electronjs.org/)
+If you need a back-end or front-end for your application, or even a desktop application using Electron, please don't hesitate to contact us.
