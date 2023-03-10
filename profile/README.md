@@ -11,5 +11,3 @@ Azusagawa.it is a one-person organization specializing in back-end development, 
 
 Our philosophy is to use as few dependencies as possible in our projects, so we often try to create our own versions of commonly-used packages. For example, we have created our own [web server](https://github.com/Azusagawa-it/core-ts/tree/main/core_modules/azusagawa%40web-server)* and [web socket server](https://github.com/Azusagawa-it/core-ts/tree/main/core_modules/azusagawa%40websocket)*.
 * which are currently closed source, but may become open source in the future,
-
-If you need a back-end or front-end for your application, or even a desktop application using Electron, please don't hesitate to contact us.
